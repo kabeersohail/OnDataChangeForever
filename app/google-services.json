@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561366364582",
+    "project_id": "ondatachangeforever",
+    "storage_bucket": "ondatachangeforever.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561366364582:android:9255fb7aabe4b470161f67",
+        "android_client_info": {
+          "package_name": "com.example.ondatachangeforever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561366364582-l89029pnl3t1cd7m7qt4qbtpl3b9ptj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyVbyrMKgwuYtRhdrGd2K9L_bHfuNyls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561366364582-l89029pnl3t1cd7m7qt4qbtpl3b9ptj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

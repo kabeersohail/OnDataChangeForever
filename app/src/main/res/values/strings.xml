@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnDataChangeForever</string>
+    <string name="launch_fragment">Launch fragment</string>
+    <string name="write_to_firebase">Write to firebase</string>
+
+    <string name="notification_channel_id">Notification channel ID</string>
+    <string name="notification_title">Notification Title</string>
+    <string name="cancel_write">cancel write</string>
+    <string name="listen_to_firebase">Listen to firebase</string>
+
+</resources>
